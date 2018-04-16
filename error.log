@@ -1,0 +1,2 @@
+[Sun Apr 15 17:55:26.114802 2018] [:error] [pid 3244:tid 2156] [client ::1:58946] script 'C:/xampp/htdocs/testzadanie/bitrix/urlrewrite.php' not found or unable to stat, referer: http://testzadanie.localhost/
+[Sun Apr 15 17:55:26.117305 2018] [:error] [pid 3244:tid 2156] [client ::1:58946] script 'C:/xampp/htdocs/testzadanie/bitrix/urlrewrite.php' not found or unable to stat, referer: http://testzadanie.localhost/
